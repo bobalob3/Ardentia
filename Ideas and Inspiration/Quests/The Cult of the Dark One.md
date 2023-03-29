@@ -1,0 +1,1 @@
+A new cult has arisen in the region, worshipping a powerful and malevolent deity known as the Dark One. The party is tasked with infiltrating the cult and putting a stop to their plans, which seem to involve a human sacrifice. But as they get closer to the cult's inner circle, they realize that the cult's power and influence are greater than they ever imagined.

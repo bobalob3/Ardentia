@@ -1,0 +1,1 @@
+A once-great castle has fallen into disrepair and is said to be haunted by the spirits of its former inhabitants. The party is hired to investigate and lay the ghosts to rest, but as they explore the castle, they discover that the ghosts are not the only danger they face. The castle holds many secrets, including a hidden treasure that some would kill to possess.

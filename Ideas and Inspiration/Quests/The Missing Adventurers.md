@@ -1,0 +1,1 @@
+A group of adventurers went missing while exploring an ancient ruin. The party is hired to find them and bring them back, but as they delve deeper into the ruin, they discover that something sinister is at work. The adventurers may have stumbled upon a powerful artifact, and someone - or something - doesn't want that secret to get out.
