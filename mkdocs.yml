@@ -1,7 +1,9 @@
 site_name: Ardentia
 
+docs_dir: ardentia
+repo_url: https://github.com/bobalob3/Ardentia
+
 plugins:
   - search
   - roamlinks
-
 theme: material
