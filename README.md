@@ -1,6 +1,6 @@
 ## Ardentia - a DND Campaign
 
-The site files for https://http://dnd.robhooper.net/
+The site files for https://dnd.robhooper.net/
 
 ### Local Development Install
 ```bash
