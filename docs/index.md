@@ -2,6 +2,7 @@ This website details out the world of [[Ardentia]] and the adventures within.
 A resource for players and GMs to explore and build.
 
 How to use this resource...
+
 * ***Characters*** - Notable characters that the party of met (or heard of) during their travels.
 * ***Ideas and Inspiration*** - Inspiration for GMs to use when crafting a session.
 * ***Session Nodes*** - A record of important events, character interactions and major descisions as they happened.

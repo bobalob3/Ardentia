@@ -1,0 +1,7 @@
+site_name: Ardentia
+
+plugins:
+  - search
+  - roamlinks
+
+theme: material
