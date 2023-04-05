@@ -4,140 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2c5a374abe11b9c",
+        "id": "465572cba9926caa",
         "type": "tabs",
         "children": [
           {
-            "id": "7f49a94445e8feda",
+            "id": "f9ef1fecdcad792e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Location.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c3a7e64b65b122a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Lore/Ardentia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56619679c63a944e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Locations/The Tavern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa23a808664beb05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Location.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "195ee13ed4220209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and Inspiration/Quests/The Missing Heirloom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90316f5434eae490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and Inspiration/Quests/The Curse of the Swamp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb4697b01d470049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and Inspiration/Quests/The Missing Adventurers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76aaf3abc5bdd5ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and Inspiration/Quests/The Cult of the Dark One.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ae7cb05d85ec480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and Inspiration/Quests/The Haunted Castle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa3348d0dab8e96a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4eae91ebb29fe50e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b5bff256a0f6468c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and Inspiration/Quests/The Cult of the Dark One.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Location.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Location.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Location.md"
+                "file": "index.md"
               }
             }
           }
@@ -270,18 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f49a94445e8feda",
+  "active": "f9ef1fecdcad792e",
   "lastOpenFiles": [
+    "Map of Ardentia.md",
     "index.md",
-    "World Lore/Ardentia.md",
-    "Home Page.md",
+    "Random Tables/index.md",
+    "Random Tables/Character Connections and Bonds.md",
+    "Random Tables/Further Reading.md",
+    "Random Tables/Travel.md",
+    "Random Tables/Lingering Injuries.md",
+    "Character Creation.md",
+    "Frequently Asked Questions.md",
+    "Random Tables/Wilderness Terrain.md",
+    "Random Tables/Treasure.md",
     "Session Notes/Session Zero.md",
-    "World Lore/Pantheon/The Pantheon of the Elements.md",
-    "Ideas and Inspiration/Random Tables/Further Reading.md",
+    "World Locations/The Tavern.md",
+    "Templates/index.md",
+    "Templates/Location.md",
+    "World Lore/Ardentia.md",
+    "Ardentia the Campaign.md",
+    "CNAME",
+    "Ideas and Inspiration/Quests/The Cult of the Dark One.md",
     "Ideas and Inspiration/Quests/The Haunted Castle.md",
-    "Ideas and Inspiration/Quests/The Missing Heirloom.md",
     "Ideas and Inspiration/Quests/The Missing Adventurers.md",
     "Ideas and Inspiration/Quests/The Curse of the Swamp.md",
-    "Ideas and Inspiration/Quests/The Cult of the Dark One.md"
+    "Ideas and Inspiration/Quests/The Missing Heirloom.md",
+    "Home Page.md",
+    "World Lore/Pantheon/The Pantheon of the Elements.md"
   ]
 }
