@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "db325171be000397",
+    "id": "357380762433ac61",
     "type": "split",
     "children": [
       {
-        "id": "465572cba9926caa",
+        "id": "32984a13b69939c8",
         "type": "tabs",
         "children": [
           {
-            "id": "f9ef1fecdcad792e",
+            "id": "c1edb21325d78336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Lore/Ardentia.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "288102e9fd5e784f",
+    "id": "a01d15d588389e68",
     "type": "split",
     "children": [
       {
-        "id": "09f1f69413f7c7db",
+        "id": "9a16ae731ff7da9a",
         "type": "tabs",
         "children": [
           {
-            "id": "db0681ef1873aef7",
+            "id": "c1f4167d0e07635e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e55683845caccc5a",
+            "id": "1636f27f1351aecd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7d0e72e8d2c7f581",
+            "id": "3829a1154e825783",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "01b90618d33deb23",
+    "id": "798d9450d0944bca",
     "type": "split",
     "children": [
       {
-        "id": "12bc2412e60560ef",
+        "id": "0536bdca56a32a05",
         "type": "tabs",
         "children": [
           {
-            "id": "3e7777382be67a74",
+            "id": "5e9614d88734e91a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Lore/Ardentia.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "f2d8e1eb52099753",
+            "id": "dec594efde07716b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Lore/Ardentia.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3e608bb4806f7fd0",
+            "id": "dac5d2412ddffe51",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "25878f719ddddf3a",
+            "id": "7bef0a2c6e493a1e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Lore/Ardentia.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,35 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9ef1fecdcad792e",
-  "lastOpenFiles": [
-    "World Locations/The Tavern.md",
-    "Session Notes/Session Zero.md",
-    "Templates/Location.md",
-    "Templates/NPC.md",
-    "Ideas and Inspiration/Random Tables/Character Connections and Bonds.md",
-    "Ideas and Inspiration/Random Tables/Further Reading.md",
-    "Ideas and Inspiration/Random Tables/Lingering Injuries.md",
-    "Ideas and Inspiration/Quests/The Missing Heirloom.md",
-    "index.md",
-    "Ideas and Inspiration/Quests/The Cult of the Dark One.md",
-    "Ideas and Inspiration/Quests/The Curse of the Swamp.md",
-    "Characters/Herbert the Child Eater.md",
-    "Characters",
-    "Map of Ardentia.md",
-    "Random Tables/index.md",
-    "Ideas and Inspiration/Random Tables/Travel.md",
-    "Character Creation.md",
-    "Frequently Asked Questions.md",
-    "Ideas and Inspiration/Random Tables/Wilderness Terrain.md",
-    "Ideas and Inspiration/Random Tables/Treasure.md",
-    "Templates/index.md",
-    "World Lore/Ardentia.md",
-    "Ardentia the Campaign.md",
-    "CNAME",
-    "Ideas and Inspiration/Quests/The Haunted Castle.md",
-    "Ideas and Inspiration/Quests/The Missing Adventurers.md",
-    "Home Page.md",
-    "World Lore/Pantheon/The Pantheon of the Elements.md"
-  ]
+  "active": "c1edb21325d78336",
+  "lastOpenFiles": []
 }
