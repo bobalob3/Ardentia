@@ -9,4 +9,4 @@
 	* What is the accessibility of Magic and Technology? (I think it depends on where the in the map you are)
 		* Limit classes?
 	* Start map? - maybe Bob prepare for next session
-	* 
+	* Limit concurrent quests

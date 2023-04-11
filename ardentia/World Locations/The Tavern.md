@@ -8,8 +8,7 @@ The center of the world (well, according to Adventurers).
 
 ## Points of Interest
 
--  See Ideas and Inspiration > Quests
-- 
+-  See [[Quest Board]] 
 
 ## Inhabitants
 

@@ -1,1 +1,0 @@
-A wealthy noble has lost a family heirloom that holds sentimental value. The party is hired to find it and return it to the noble, who will reward them handsomely. But as they search, they discover that the heirloom is more than just a piece of jewelry - it holds a secret that could upend the noble's entire family.

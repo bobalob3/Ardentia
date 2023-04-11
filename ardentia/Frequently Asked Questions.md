@@ -1,3 +1,7 @@
+#### Player Agency
+
+How comfortable are we with this? compromise will be needed.
+
 #### World building
 
 All world building is done by GMs and players during and preparing for sessions.

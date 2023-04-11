@@ -4,12 +4,12 @@ A resource for players and GMs to explore and build.
 How to use this resource...
 
 * ***Characters*** - Notable characters that the party of met (or heard of) during their travels.
-* ***Ideas and Inspiration*** - Inspiration for GMs to use when crafting a session.
-* ***Random Tables*** - Random tables to generate content and aid the GM during a session.
-* ***Session Nodes*** - A record of important events, character interactions and major descisions as they happened.
+* ***Quests*** - Information on and regarding ongoing and new quests. See [[Quest Board]].
+* ***Random Tables*** - Optional tables to generate content and aid the GM during a session.
+* ***Session Notes*** - A record of important events, character interactions and major descisions as they happened.
 * ***World Lore*** - Knowledge and Beliefs about the world.
-* ***Templates*** - Document structures for populating this wiki.
 * ***World Locations*** - Locations and regions visited or known to the party.
+* ***Templates*** - Document structures for populating this wiki.
 
 ## The Rules
 * Adventures start and finish in [[The Tavern]] (unless otherwise specified).

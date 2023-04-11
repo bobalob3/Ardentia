@@ -1,1 +1,0 @@
-The local village has been suffering from a mysterious curse that seems to emanate from a nearby swamp. The party is asked to investigate and put an end to the curse, but they soon discover that the swamp is home to all manner of dangerous creatures and supernatural beings. Can they survive the dangers of the swamp and lift the curse?

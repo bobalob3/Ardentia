@@ -1,3 +1,4 @@
+
 | Roll | Encounter/Weather |
 | ---- | ---------------- |
 | 1    | Peaceful Travels: The party travels through a calm and serene landscape. |

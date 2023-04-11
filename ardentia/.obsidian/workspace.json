@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Lore/Ardentia.md",
+                "file": "Frequently Asked Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Lore/Ardentia.md",
+                "file": "Frequently Asked Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Lore/Ardentia.md",
+                "file": "Frequently Asked Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Lore/Ardentia.md"
+                "file": "Frequently Asked Questions.md"
               }
             }
           }
@@ -148,33 +148,31 @@
   },
   "active": "f9ef1fecdcad792e",
   "lastOpenFiles": [
+    "index.md",
+    "World Lore/Pantheon/The Pantheon of the Elements.md",
+    "World Lore/Ardentia.md",
     "World Locations/The Tavern.md",
     "Session Notes/Session Zero.md",
-    "Templates/Location.md",
-    "Templates/NPC.md",
-    "Ideas and Inspiration/Random Tables/Character Connections and Bonds.md",
-    "Ideas and Inspiration/Random Tables/Further Reading.md",
-    "Ideas and Inspiration/Random Tables/Lingering Injuries.md",
-    "Ideas and Inspiration/Quests/The Missing Heirloom.md",
-    "index.md",
-    "Ideas and Inspiration/Quests/The Cult of the Dark One.md",
-    "Ideas and Inspiration/Quests/The Curse of the Swamp.md",
-    "Characters/Herbert the Child Eater.md",
-    "Characters",
+    "Random Tables/Wilderness Terrain.md",
+    "Random Tables/Treasure.md",
+    "Random Tables/Travel.md",
+    "Random Tables/Further Reading.md",
+    "Random Tables/Lingering Injuries.md",
+    "Random Tables/Character Connections and Bonds.md",
+    "Quests/Quest Board.md",
     "Map of Ardentia.md",
+    "Quests",
+    "Ideas and Inspiration/Quests/The Missing Heirloom.md",
+    "Ideas and Inspiration/Quests/The Missing Adventurers.md",
+    "Ideas and Inspiration/Quests/The Haunted Castle.md",
+    "Ideas and Inspiration/Quests/The Curse of the Swamp.md",
+    "Templates/NPC.md",
+    "Random Tables",
+    "NPC Characters/Herbert the Child Eater.md",
+    "NPC Characters",
     "Random Tables/index.md",
-    "Ideas and Inspiration/Random Tables/Travel.md",
     "Character Creation.md",
     "Frequently Asked Questions.md",
-    "Ideas and Inspiration/Random Tables/Wilderness Terrain.md",
-    "Ideas and Inspiration/Random Tables/Treasure.md",
-    "Templates/index.md",
-    "World Lore/Ardentia.md",
-    "Ardentia the Campaign.md",
-    "CNAME",
-    "Ideas and Inspiration/Quests/The Haunted Castle.md",
-    "Ideas and Inspiration/Quests/The Missing Adventurers.md",
-    "Home Page.md",
-    "World Lore/Pantheon/The Pantheon of the Elements.md"
+    "CNAME"
   ]
 }
