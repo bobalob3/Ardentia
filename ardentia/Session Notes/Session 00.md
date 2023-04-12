@@ -1,6 +1,6 @@
 * Created new characters
 * Create a bond between a player 1d6 away from you at the table.
-* Discussed Lines and Veils (hard don'ts and OK offscreen) - See [[index|front page]].
+* Discussed Lines and Veils (hard don'ts and OK offscreen) - See [[index]].
 
 Campaign start.
 

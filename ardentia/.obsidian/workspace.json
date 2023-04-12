@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Locations/Volcano.md",
+                "file": "End of Session Debreif.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Locations/Volcano.md",
+                "file": "End of Session Debreif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Locations/Volcano.md",
+                "file": "End of Session Debreif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Locations/Volcano.md"
+                "file": "End of Session Debreif.md"
               }
             }
           }
@@ -148,35 +148,35 @@
   },
   "active": "e762cc2c80e7391f",
   "lastOpenFiles": [
+    "Random Tables/Lingering Injuries.md",
+    "Random Tables/Rocks Rock.md",
     "Session Notes/Session 00.md",
+    "Session Notes/Session 01.md",
+    "Templates/index.md",
+    "Templates/NPC.md",
+    "Templates/Location.md",
+    "World Locations/Volcano.md",
     "NPC Characters/Nervat.md",
     "Frequently Asked Questions.md",
     "Character Creation.md",
-    "World Locations/Volcano.md",
-    "Random Tables/Rocks Rock.md",
-    "Session Notes/Session 01.md",
     "World Lore/Magic and Technology.md",
     "World Lore/Ardentia.md",
     "Quests/Quest Board.md",
     "End of Session Debreif.md",
     "index.md",
     "World Locations/On the Rocks.md",
-    "Templates/Location.md",
     "Random Tables/Custom Treasure and Spells.md",
     "Random Tables/Treasure.md",
     "Random Tables/Wilderness Terrain.md",
     "Random Tables/Travel.md",
-    "Random Tables/Lingering Injuries.md",
     "Random Tables/Further Reading.md",
     "Random Tables/Character Connections and Bonds.md",
     "NPC Characters/Herbert the Child Eater.md",
     "Random Tables",
     "Quests",
     "NPC Characters",
-    "Templates/NPC.md",
     "Ideas and Inspiration/Random Tables/Character Connections and Bonds.md",
     "Ideas and Inspiration/Random Tables/Further Reading.md",
-    "Ideas and Inspiration/Random Tables/Lingering Injuries.md",
     "Characters",
     "CNAME"
   ]
