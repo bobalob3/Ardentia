@@ -10,5 +10,4 @@
 | 7   | Trained together                                |
 | 8   | Servants of the same government                 |
 
-
-https://www.reddit.com/r/DnDBehindTheScreen/comments/8gdnbc/64_unique_party_connections/
+[Click here for more connections](https://www.reddit.com/r/DnDBehindTheScreen/comments/8gdnbc/64_unique_party_connections/)
