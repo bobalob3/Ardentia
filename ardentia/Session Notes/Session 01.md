@@ -1,4 +1,5 @@
 In the last week...
+
 * Jorm - helped others move in, working with Skcorsy to build a Goat Pen.
 * Fi - Found a shed but it was making a mysterious sound so she avoided it.
 * Chaz - Fixed the Tavern roof.
