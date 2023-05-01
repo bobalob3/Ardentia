@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e203425db98d51c9",
+        "id": "465572cba9926caa",
         "type": "tabs",
         "children": [
           {
-            "id": "e762cc2c80e7391f",
+            "id": "f9ef1fecdcad792e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "End of Session Debreif.md",
+                "file": "Session Notes/Session 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6bc7234bbba4a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "End of Session Debreif.md",
+                "file": "Session Notes/Session 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "End of Session Debreif.md",
+                "file": "Session Notes/Session 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "End of Session Debreif.md"
+                "file": "Session Notes/Session 01.md"
               }
             }
           }
@@ -146,38 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e762cc2c80e7391f",
+  "active": "c6bc7234bbba4a1a",
   "lastOpenFiles": [
-    "Random Tables/Lingering Injuries.md",
-    "Random Tables/Rocks Rock.md",
-    "Session Notes/Session 00.md",
+    "Session Notes/Session 02.md",
     "Session Notes/Session 01.md",
-    "Templates/index.md",
-    "Templates/NPC.md",
-    "Templates/Location.md",
-    "World Locations/Volcano.md",
-    "NPC Characters/Nervat.md",
+    "Session Notes/Session 00.md",
     "Frequently Asked Questions.md",
-    "Character Creation.md",
     "World Lore/Magic and Technology.md",
-    "World Lore/Ardentia.md",
-    "Quests/Quest Board.md",
+    "World Locations/Volcano.md",
+    "World Locations/On the Rocks.md",
+    "Random Tables/Rocks Rock.md",
+    "NPC Characters/Nervat.md",
     "End of Session Debreif.md",
     "index.md",
-    "World Locations/On the Rocks.md",
-    "Random Tables/Custom Treasure and Spells.md",
-    "Random Tables/Treasure.md",
+    "World Lore/Pantheon/The Pantheon of the Elements.md",
+    "World Lore/Ardentia.md",
+    "World Locations/The Tavern.md",
+    "Session Notes/Session Zero.md",
     "Random Tables/Wilderness Terrain.md",
+    "Random Tables/Treasure.md",
     "Random Tables/Travel.md",
     "Random Tables/Further Reading.md",
+    "Random Tables/Lingering Injuries.md",
     "Random Tables/Character Connections and Bonds.md",
-    "NPC Characters/Herbert the Child Eater.md",
-    "Random Tables",
+    "Quests/Quest Board.md",
+    "Map of Ardentia.md",
     "Quests",
+    "Ideas and Inspiration/Quests/The Missing Heirloom.md",
+    "Ideas and Inspiration/Quests/The Missing Adventurers.md",
+    "Ideas and Inspiration/Quests/The Haunted Castle.md",
+    "Random Tables",
     "NPC Characters",
-    "Ideas and Inspiration/Random Tables/Character Connections and Bonds.md",
-    "Ideas and Inspiration/Random Tables/Further Reading.md",
-    "Characters",
     "CNAME"
   ]
 }
