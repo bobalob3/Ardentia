@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9ef1fecdcad792e",
+            "id": "29f8650f5b7030a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6bc7234bbba4a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 01.md",
+                "file": "Session Notes/Session 02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d190b70228d6143a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 01.md",
+                "file": "Session Notes/Session 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 01.md",
+                "file": "Session Notes/Session 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 01.md"
+                "file": "Session Notes/Session 02.md"
               }
             }
           }
@@ -159,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6bc7234bbba4a1a",
+  "active": "29f8650f5b7030a2",
   "lastOpenFiles": [
-    "Session Notes/Session 02.md",
-    "Session Notes/Session 01.md",
     "Session Notes/Session 00.md",
+    "Session Notes/Session 01.md",
+    "Session Notes/Session 02.md",
+    "World Locations/Town Rectangle.md",
     "Frequently Asked Questions.md",
     "World Lore/Magic and Technology.md",
     "World Locations/Volcano.md",
@@ -187,7 +183,6 @@
     "Quests",
     "Ideas and Inspiration/Quests/The Missing Heirloom.md",
     "Ideas and Inspiration/Quests/The Missing Adventurers.md",
-    "Ideas and Inspiration/Quests/The Haunted Castle.md",
     "Random Tables",
     "NPC Characters",
     "CNAME"
