@@ -4,6 +4,7 @@ A contract courtesy or LootLancer: Carnival in town, Body Guards needed, payment
 Smokey grabs some chalk and marks the signature box.
 
 Since last week...
+
 * Alder - Exploring the town and making general improvements.
 * Skcorsy - Crafting matching team hats from the fur of his goats.
 * Fi - Continuing to watch the shed, she has also seen creatures entering and exiting it.
@@ -23,6 +24,7 @@ Noting us as the new bodyguards they send us in.
 Inside the Registration Tent there is a small dark room which we are each guided into, one at a time. The dark box is designed to make us each look more like a bodyguard.
 
 Exiting the room we find each other as so...
+
 * Alder - Chest grows (+2 CON)
 * Fi - Body Tattoo covering head to feat, plus themed Glasses.
 * Skcorsy - Unrulily hair growth, realising this he drops to all four and imitates a goat.
